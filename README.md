@@ -1,11 +1,27 @@
-### Hey there :punch:
+Frontend-focused Software Engineer based in **Funchal, Madeira (Portugal)** — I build **fast, reliable UI** and the **tooling/automation** that makes teams ship with confidence.
 
-- 🔭 I’m currently working into a project related with heath care using React
-- 🌱 I’m currently learning Desing Patterns
-- 👯 I’m looking to collaborate on open sorce project related with typescript or node, just contact me ! :smirk:
-- 🤔 I’m looking for help with aplly TDD into my developments
-- 💬 Ask me about React and things related with front end & or JS / TS
-- 📫 Reach me at  [my web site](https://henriqueomena.com)  
+- ⚛️ **React / TypeScript** (Web + React Native), modern UI architecture, performance, accessibility
+- 🧪 Testing-first mindset: **Jest, React Testing Library, Playwright, Cypress**
+- 🎨 Design Systems & **design tokens** (consistency, scalable UI, dev–design workflow)
+- 🤖 Heavy **AI user** (Cursor/LLMs) for accelerating delivery: code generation, refactors, docs, automation — with safety checks and maintainability in mind
+
+### What I’m up to
+- 🔭 Building products with **React** in a **healthcare-related** domain  
+- 🧱 Improving my fundamentals in **System Design & Design Patterns**
+- 🧪 Leveling up on **practical TDD** (real-world constraints, not “toy examples”)
+
+### Open to
+- 👯 Collaborating on **TypeScript / Node.js / React** open-source projects
+- 💬 Chat with me about **frontend architecture**, testing strategy, design systems, CI/CD, and AI-assisted workflows
+
+### Featured focus (what I love building)
+- Developer Experience automation (scripts, CI pipelines, onboarding tooling)
+- Design systems that scale across brands/products
+- Testable UI + predictable state + clean boundaries
+
+### Find me
+- 🌐 Website: https://henriqueomena.me
+- 💼 GitHub: https://github.com/HenriqueOmena
 
 ### Languages and Tools:
 
